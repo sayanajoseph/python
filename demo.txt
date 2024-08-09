@@ -1,3 +1,5 @@
 u=untracked
 A= added files
-M=modified files
+M=modified files 
+git status
+git add . >> all files has been tracked by git 
