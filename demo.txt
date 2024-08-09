@@ -1,0 +1,3 @@
+u=untracked
+A= added files
+M=modified files
